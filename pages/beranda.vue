@@ -5,7 +5,7 @@
     <!-- Gambar di Beranda -->
     <div class="row">
       <div class="col-md-12">
-        <img src="/img/skul.jpg" alt="Sekolahku" class="img-fluid rounded" />
+        <img src="assets/img/skul.jpg" alt="Gambar 1" class="img-fluid gallery-image" />
       </div>
     </div>
 
