@@ -5,7 +5,7 @@
     <!-- Gambar di Beranda -->
     <div class="row">
       <div class="col-md-12">
-        <img src="/images/skul.jpg" alt="Skull Image">
+        <img src="/img/skul.jpg" alt="Sekolahku" class="img-fluid rounded" />
       </div>
     </div>
 
